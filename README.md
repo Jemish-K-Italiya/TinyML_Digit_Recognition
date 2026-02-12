@@ -61,3 +61,18 @@ The `predict()` function performs on-device matrix multiplication.
 
 Data is sent via Serial Monitor in chunks. The LCD displays "Thinking..." followed by the predicted result.
 
+## 📈 Results & Analysis
+
+* **Training Accuracy:** High-performance classification verified in Python before export.
+* **Hardware Verification:**
+* **Test 1:** 
+![alt text](<Screenshot 2026-02-12 004049.png>)
+![alt text](<Screenshot 2026-02-12 004236.png>)
+* **Test 2:** 
+![alt text](<Screenshot 2026-02-12 003944.png>)
+![alt text](<Screenshot 2026-02-12 003915.png>)
+* **Test 3:** 
+![alt text](<Screenshot 2026-02-12 003746.png>)
+![alt text](<Screenshot 2026-02-12 003702.png>)
+
+
